@@ -1,0 +1,101 @@
+﻿id,title,director,year,rating,genre,douban_url,cover_url
+1,肖申克的救赎,弗兰克·德拉邦特 Frank Darabont主演,1994,9.7,剧情/犯罪,https://movie.douban.com/subject/1292052/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg
+2,霸王别姬,陈凯歌 Kaige Chen主演,1993,9.6,剧情/爱情/同性,https://movie.douban.com/subject/1291546/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2561716440.jpg
+3,泰坦尼克号,詹姆斯·卡梅隆 James Cameron主演,1997,9.5,剧情/爱情/灾难,https://movie.douban.com/subject/1292722/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg
+4,阿甘正传,罗伯特·泽米吉斯 Robert Zemeckis主演,1994,9.5,剧情/爱情,https://movie.douban.com/subject/1292720/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2372307693.jpg
+5,千与千寻,宫崎骏 Hayao Miyazaki主演,2001,9.4,剧情/动画/奇幻,https://movie.douban.com/subject/1291561/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2557573348.jpg
+6,美丽人生,罗伯托·贝尼尼 Roberto Benigni主演,1997,9.5,剧情/喜剧/爱情/战争,https://movie.douban.com/subject/1292063/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.jpg
+7,这个杀手不太冷,吕克·贝松 Luc Besson主演,1994,9.4,剧情/动作/犯罪,https://movie.douban.com/subject/1295644/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2913554676.jpg
+8,星际穿越,克里斯托弗·诺兰 Christopher Nolan主演,2014,9.4,剧情/科幻/冒险,https://movie.douban.com/subject/1889243/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2614988097.jpg
+9,盗梦空间,克里斯托弗·诺兰 Christopher Nolan主演,2010,9.4,剧情/科幻/悬疑/冒险,https://movie.douban.com/subject/3541415/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg
+10,楚门的世界,彼得·威尔 Peter Weir主演,1998,9.4,剧情/科幻,https://movie.douban.com/subject/1292064/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg
+11,辛德勒的名单,史蒂文·斯皮尔伯格 Steven Spielberg主演,1993,9.5,剧情/历史/战争,https://movie.douban.com/subject/1295124/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg
+12,忠犬八公的故事,莱塞·霍尔斯道姆 Lasse Hallström主演,2009,9.4,剧情,https://movie.douban.com/subject/3011091/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2587099240.jpg
+13,海上钢琴师,朱塞佩·托纳多雷 Giuseppe Tornatore主演,1998,9.3,剧情/音乐,https://movie.douban.com/subject/1292001/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2914698334.jpg
+14,三傻大闹宝莱坞,拉库马·希拉尼 Rajkumar Hirani主演,2009,9.2,剧情/喜剧/爱情/歌舞,https://movie.douban.com/subject/3793023/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg
+15,疯狂动物城,拜伦·霍华德 Byron Howard,2016,9.2,喜剧/动画/冒险,https://movie.douban.com/subject/25662329/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2323981221.jpg
+16,放牛班的春天,克里斯托夫·巴拉蒂 Christophe Barratier主演,2004,9.3,剧情/音乐,https://movie.douban.com/subject/1291549/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2884280708.jpg
+17,机器人总动员,安德鲁·斯坦顿 Andrew Stanton主演,2008,9.3,科幻/动画/冒险,https://movie.douban.com/subject/2131459/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg
+18,无间道,刘伟强,2002,9.3,剧情/惊悚/犯罪,https://movie.douban.com/subject/1307914/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2564556863.jpg
+19,控方证人,比利·怀尔德 Billy Wilder主演,1957,9.6,剧情/悬疑/惊悚/犯罪,https://movie.douban.com/subject/1296141/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2911817201.jpg
+20,大话西游之大圣娶亲,刘镇伟 Jeffrey Lau主演,1995,9.2,喜剧/爱情/奇幻/古装,https://movie.douban.com/subject/1292213/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg
+21,熔炉,黄东赫 Dong-hyuk Hwang主演,2011,9.3,剧情,https://movie.douban.com/subject/5912992/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg
+22,触不可及,奥利维·那卡什 Olivier Nakache,2011,9.3,剧情/喜剧,https://movie.douban.com/subject/6786002/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg
+23,教父,弗朗西斯·福特·科波拉 Francis Ford Coppola主演,1972,9.3,剧情/犯罪,https://movie.douban.com/subject/1291841/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p616779645.jpg
+24,寻梦环游记,李·昂克里奇 Lee Unkrich,2017,9.1,喜剧/动画/音乐/奇幻,https://movie.douban.com/subject/20495023/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2505426431.jpg
+25,当幸福来敲门,加布里尔·穆奇诺 Gabriele Muccino主演,2006,9.1,剧情/家庭/传记,https://movie.douban.com/subject/1849031/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1312700628.jpg
+26,末代皇帝,贝纳尔多·贝托鲁奇 Bernardo Bertolucci主演,1987,9.3,剧情/传记/历史,https://movie.douban.com/subject/1293172/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg
+27,哈利·波特与魔法石,Chris Columbus主演,2001,9.2,奇幻/冒险,https://movie.douban.com/subject/1295038/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913781448.jpg
+28,龙猫,宫崎骏 Hayao Miyazaki主演,1988,9.2,动画/奇幻/冒险,https://movie.douban.com/subject/1291560/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2540924496.jpg
+29,怦然心动,罗伯·莱纳 Rob Reiner主演,2010,9.1,剧情/喜剧/爱情,https://movie.douban.com/subject/3319755/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p501177648.jpg
+30,活着,张艺谋 Yimou Zhang主演,1994,9.3,剧情/家庭/历史,https://movie.douban.com/subject/1292365/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2597919477.jpg
+31,蝙蝠侠：黑暗骑士,克里斯托弗·诺兰 Christopher Nolan主演,2008,9.2,剧情/动作/科幻/惊悚/犯罪,https://movie.douban.com/subject/1851857/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg
+32,指环王3：王者无敌,彼得·杰克逊 Peter Jackson主演,2003,9.3,剧情/动作/奇幻/冒险,https://movie.douban.com/subject/1291552/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2642829472.jpg
+33,我不是药神,文牧野 Muye Wen主演,2018,9.0,剧情/喜剧,https://movie.douban.com/subject/26752088/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2561305376.jpg
+34,乱世佳人,维克多·弗莱明 Victor Fleming,1939,9.3,剧情/爱情/历史/战争,https://movie.douban.com/subject/1300267/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg
+35,飞屋环游记,彼特·道格特 Pete Docter,2009,9.1,剧情/喜剧/动画/冒险,https://movie.douban.com/subject/2129039/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553594918.jpg
+36,让子弹飞,姜文 Wen Jiang主演,2010,9.0,剧情/喜剧/动作/西部,https://movie.douban.com/subject/3742360/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg
+37,哈尔的移动城堡,宫崎骏 Hayao Miyazaki主演,2004,9.1,爱情/动画/奇幻/冒险,https://movie.douban.com/subject/1308807/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2907583906.jpg
+38,素媛,李濬益 Jun-ik Lee主演,2013,9.3,剧情,https://movie.douban.com/subject/21937452/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg
+39,十二怒汉,西德尼·吕美特 Sidney Lumet主演,1957,9.4,剧情,https://movie.douban.com/subject/1293182/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg
+40,海蒂和爷爷,阿兰·葛斯彭纳 Alain Gsponer主演,2015,9.3,剧情/家庭/冒险,https://movie.douban.com/subject/25958717/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg
+41,猫鼠游戏,史蒂文·斯皮尔伯格 Steven Spielberg主演,2002,9.1,剧情/传记/犯罪,https://movie.douban.com/subject/1305487/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg
+42,天空之城,宫崎骏 Hayao Miyazaki主演,1986,9.2,动画/奇幻/冒险,https://movie.douban.com/subject/1291583/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2892409201.jpg
+43,鬼子来了,姜文 Wen Jiang主演,2000,9.3,剧情/喜剧,https://movie.douban.com/subject/1291858/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2553104888.jpg
+44,摔跤吧！爸爸,涅提·蒂瓦里 Nitesh Tiwari主演,2016,9.0,剧情/家庭/传记/运动,https://movie.douban.com/subject/26387939/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2401676338.jpg
+45,少年派的奇幻漂流,李安 Ang Lee主演,2012,9.1,剧情/奇幻/冒险,https://movie.douban.com/subject/1929463/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg
+46,钢琴家,罗曼·波兰斯基 Roman Polanski主演,2002,9.3,剧情/音乐/传记/战争,https://movie.douban.com/subject/1296736/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1381339291.jpg
+47,指环王2：双塔奇兵,彼得·杰克逊 Peter Jackson主演,2002,9.2,剧情/动作/奇幻/冒险,https://movie.douban.com/subject/1291572/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2640236255.jpg
+48,死亡诗社,彼得·威尔 Peter Weir主演,1989,9.2,剧情,https://movie.douban.com/subject/1291548/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2575465690.jpg
+49,大话西游之月光宝盒,刘镇伟 Jeffrey Lau主演,1995,9.0,喜剧/爱情/奇幻/古装,https://movie.douban.com/subject/1299398/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2561721372.jpg
+50,何以为家,娜丁·拉巴基 Nadine Labaki主演,2018,9.1,剧情,https://movie.douban.com/subject/30170448/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2555295759.jpg
+51,闻香识女人,马丁·布莱斯 Martin Brest主演,1992,9.1,剧情,https://movie.douban.com/subject/1298624/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2550757929.jpg
+52,绿皮书,彼得·法雷里 Peter Farrelly主演,2018,8.9,剧情/喜剧/音乐/传记,https://movie.douban.com/subject/27060077/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2531065411.jpg
+53,大闹天宫,万籁鸣 Laiming Wan主演,1961,9.4,剧情/动画/奇幻/古装,https://movie.douban.com/subject/1418019/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg
+54,黑客帝国,安迪·沃卓斯基 Andy Wachowski,1999,9.1,动作/科幻,https://movie.douban.com/subject/1291843/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg
+55,指环王1：护戒使者,彼得·杰克逊 Peter Jackson主演,2001,9.1,剧情/动作/奇幻/冒险,https://movie.douban.com/subject/1291571/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2197698335.jpg
+56,罗马假日,威廉·惠勒 William Wyler主演,1953,9.1,剧情/喜剧/爱情,https://movie.douban.com/subject/1293839/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg
+57,教父2,弗朗西斯·福特·科波拉 Francis Ford Coppola主演,1974,9.3,剧情/犯罪,https://movie.douban.com/subject/1299131/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg
+58,狮子王,Roger Allers,1994,9.1,动画/歌舞/冒险,https://movie.douban.com/subject/1301753/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg
+59,天堂电影院,朱塞佩·托纳多雷 Giuseppe Tornatore主演,1988,9.2,剧情/爱情,https://movie.douban.com/subject/1291828/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2653054340.jpg
+60,饮食男女,李安 Ang Lee主演,1994,9.2,剧情/家庭,https://movie.douban.com/subject/1291818/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg
+61,辩护人,杨宇硕 Woo-seok Yang主演,2013,9.2,剧情,https://movie.douban.com/subject/21937445/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg
+62,搏击俱乐部,大卫·芬奇 David Fincher主演,1999,9.0,剧情/动作/悬疑/惊悚,https://movie.douban.com/subject/1292000/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910931622.jpg
+63,本杰明·巴顿奇事,大卫·芬奇 David Fincher主演,2008,9.0,剧情/爱情/奇幻,https://movie.douban.com/subject/1485260/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg
+64,美丽心灵,朗·霍华德 Ron Howard主演,2001,9.1,剧情/传记,https://movie.douban.com/subject/1306029/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg
+65,穿条纹睡衣的男孩,马克·赫尔曼 Mark Herman主演,2008,9.2,剧情/战争,https://movie.douban.com/subject/3008247/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg
+66,情书,岩井俊二 Shunji Iwai主演,1995,8.9,剧情/爱情,https://movie.douban.com/subject/1292220/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2648230660.jpg
+67,两杆大烟枪,盖·里奇 Guy Ritchie主演,1998,9.1,剧情/喜剧/犯罪,https://movie.douban.com/subject/1293350/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg
+68,窃听风暴,弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck&n...                            2006,2006,9.2,剧情/悬疑,https://movie.douban.com/subject/1900841/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg
+69,哈利·波特与死亡圣器(下),大卫·叶茨 David Yates主演,2011,9.0,奇幻/冒险,https://movie.douban.com/subject/3011235/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913457020.jpg
+70,音乐之声,罗伯特·怀斯 Robert Wise主演,1965,9.1,剧情/爱情/歌舞/传记,https://movie.douban.com/subject/1294408/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg
+71,西西里的美丽传说,朱塞佩·托纳多雷 Giuseppe Tornatore主演,2000,8.9,剧情/情色/战争,https://movie.douban.com/subject/1292402/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2441988159.jpg
+72,功夫,周星驰 Stephen Chow主演,2004,8.9,喜剧/动作/犯罪/奇幻,https://movie.douban.com/subject/1291543/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2219011938.jpg
+73,阿凡达,詹姆斯·卡梅隆 James Cameron主演,2009,8.8,动作/科幻/冒险,https://movie.douban.com/subject/1652587/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2180085848.jpg
+74,哈利·波特与阿兹卡班的囚徒,阿方索·卡隆 Alfonso Cuarón主演,2004,9.0,奇幻/冒险,https://movie.douban.com/subject/1291544/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2913456870.jpg
+75,看不见的客人,奥里奥尔·保罗 Oriol Paulo主演,2016,8.8,剧情/悬疑/惊悚/犯罪,https://movie.douban.com/subject/26580232/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg
+76,拯救大兵瑞恩,史蒂文·斯皮尔伯格 Steven Spielberg主演,1998,9.1,剧情/战争,https://movie.douban.com/subject/1292849/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg
+77,沉默的羔羊,乔纳森·戴米 Jonathan Demme主演,1991,8.9,剧情/惊悚/犯罪,https://movie.douban.com/subject/1293544/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg
+78,小鞋子,马基德·马基迪 Majid Majidi主演,1997,9.2,剧情/家庭/儿童,https://movie.douban.com/subject/1303021/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2165511465.jpg
+79,飞越疯人院,米洛斯·福尔曼 Miloš Forman主演,1975,9.1,剧情,https://movie.douban.com/subject/1292224/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg
+80,布达佩斯大饭店,韦斯·安德森 Wes Anderson主演,2014,8.9,剧情/喜剧/冒险,https://movie.douban.com/subject/11525673/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2183539003.jpg
+81,蝴蝶效应,埃里克·布雷斯 Eric Bress,2004,8.9,剧情/科幻/悬疑/惊悚,https://movie.douban.com/subject/1292343/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg
+82,禁闭岛,Martin Scorsese主演,2010,8.9,剧情/悬疑/惊悚,https://movie.douban.com/subject/2334904/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450262388.jpg
+83,致命魔术,克里斯托弗·诺兰 Christopher Nolan主演,2006,8.9,剧情/悬疑/惊悚,https://movie.douban.com/subject/1780330/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg
+84,心灵捕手,格斯·范·桑特 Gus Van Sant主演,1997,9.0,剧情,https://movie.douban.com/subject/1292656/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg
+85,低俗小说,昆汀·塔伦蒂诺 Quentin Tarantino主演,1994,8.9,剧情/喜剧/犯罪,https://movie.douban.com/subject/1291832/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg
+86,超脱,托尼·凯耶 Tony Kaye主演,2011,9.0,剧情,https://movie.douban.com/subject/5322596/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg
+87,哈利·波特与密室,Chris Columbus主演,2002,8.9,奇幻/冒险,https://movie.douban.com/subject/1296996/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2913781951.jpg
+88,摩登时代,查理·卓别林 Charles Chaplin主演,1936,9.3,剧情/喜剧/爱情,https://movie.douban.com/subject/1294371/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263408369.jpg
+89,喜剧之王,周星驰 Stephen Chow,1999,8.8,剧情/喜剧/爱情,https://movie.douban.com/subject/1302425/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg
+90,杀人回忆,奉俊昊 Joon-ho Bong主演,2003,8.9,剧情/动作/悬疑/惊悚/犯罪,https://movie.douban.com/subject/1300299/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1633113220.jpg
+91,致命ID,詹姆斯·曼高德 James Mangold主演,2003,8.9,剧情/悬疑/惊悚,https://movie.douban.com/subject/1297192/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2558364386.jpg
+92,春光乍泄,王家卫 Kar Wai Wong主演,1997,9.0,剧情/爱情/同性,https://movie.douban.com/subject/1292679/,https://img2.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg
+93,一一,杨德昌 Edward Yang主演,2000,9.1,剧情/爱情/家庭,https://movie.douban.com/subject/1292434/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2567845803.jpg
+94,海豚湾,路易·西霍尤斯 Louie Psihoyos主演,2009,9.3,纪录片,https://movie.douban.com/subject/3442220/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2559579779.jpg
+95,美国往事,赛尔乔·莱翁内 Sergio Leone主演,1984,9.1,剧情/犯罪,https://movie.douban.com/subject/1292262/,https://img3.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg
+96,加勒比海盗,戈尔·维宾斯基 Gore Verbinski主演,2003,8.8,动作/奇幻/冒险,https://movie.douban.com/subject/1298070/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg
+97,红辣椒,今敏 Satoshi Kon主演,2006,9.0,科幻/动画/悬疑/惊悚,https://movie.douban.com/subject/1865703/,https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2794776839.jpg
+98,七宗罪,大卫·芬奇 David Fincher主演,1995,8.8,剧情/悬疑/惊悚/犯罪,https://movie.douban.com/subject/1292223/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2219586434.jpg
+99,唐伯虎点秋香,李力持 Lik-Chi Lee主演,1993,8.7,喜剧/爱情/古装,https://movie.douban.com/subject/1306249/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2357915564.jpg
+100,还有明天,宝拉·柯特莱西 Paola Cortellesi主演,2023,9.4,剧情/喜剧/历史,https://movie.douban.com/subject/36445098/,https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2918279456.jpg
